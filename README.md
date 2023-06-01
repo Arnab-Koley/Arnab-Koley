@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/a2/64/74/a264749dbd39e8dc39db72812802e419.gif)]
+![MasterHead](https://i.pinimg.com/originals/a2/64/74/a264749dbd39e8dc39db72812802e419.gif)
 <h1 align="center">Hi 👋, I'm Arnab Koley</h1>
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="arnab" width="200" src="https://media.tenor.com/cNtGW9mWL9MAAAAi/butterfly-teal.gif">
