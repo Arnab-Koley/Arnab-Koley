@@ -1,6 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/9a/2a/47/9a2a4773716278ddfa11c04f5f900932.gif)]
 <h1 align="center">Hi 👋, I'm Arnab Koley</h1>
 <h3 align="center">A Passionate Developer</h3>
-<img align="right" alt="arnab" width="400" src="https://media.tenor.com/cNtGW9mWL9MAAAAi/butterfly-teal.gif">
+<img align="right" alt="arnab" width="200" src="https://media.tenor.com/cNtGW9mWL9MAAAAi/butterfly-teal.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-koley&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-koley" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-koley" alt="arnab-koley" /></a> </p>
